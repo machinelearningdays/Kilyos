@@ -1,4 +1,5 @@
 # EAR
+![EAR logo](https://github.com/machinelearningdays/Kilyos/blob/main/logo.png?raw=true)
 EAR köpeklerin ağlamalarını tespit eden bir yapay zeka yazılımıdır.
 
 Amacımız, bu yazılımı barınaklara, sokak kulübelerine ve evlere kurarak, köpeklerin acı çektiği anlarda yardımı hızlı ulaştırmaktır.
@@ -21,7 +22,9 @@ Modeli eğitmek için Tensorflow ve Keras kullanarak 1D bir convolutional neural
 ### Takımımız
 **Özge HURMA**: Boğaziçi Üniversitesi Kimya Mühendisliği 1. sınıf öğrencisiyim. Yaklaşık bir aydır machine learning ve deep learning ile ilgileniyorum. Dans ediyorum, bisiklet sürüyorum ve dağcılık yapıyorum. Doğayı ve hayvanları seviyorum.
 https://www.linkedin.com/in/%C3%B6zge-hurma-3a5b90190/
+
 **Oktay ÖZEL**: Boğaziçi Üniversitesi Bilgisayar Mühendisliği’nde 1. sınıf öğrencisiyim. İstanbul Atatürk Fen Lisesi mezunuyum. Dağcılık ve doğa sporlarıyla ilgileniyorum. İleri seviyede İngilizce ve orta seviyede Almanca biliyorum.
 https://www.linkedin.com/in/oktay-%C3%B6zel-9b3803191/
+
 **Ekrem BAL**: Ortaokuldan beri yazılımla ilgiliyim, Lise hayatımda algoritmalarla uğraştım ve Uluslararası Bilgisayar Olimpiyatlarında ülkemizi temsilen gümüş madalya kazandım. Boğaziçi Üniversitesi Bilgisayar Mühendisliği 1. Sınıf Öğrencisiyim, aynı zamanda PragmaCraft adlı şirkette doğal dil işleme hakkında çalışıyorum.
-https://www.linkedin.com/in/ekrembal
+https://www.linkedin.com/in/ekrembal 

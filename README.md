@@ -1,5 +1,6 @@
 # EAR
 ![EAR logo](https://github.com/machinelearningdays/Kilyos/blob/main/logo.png?raw=true)
+
 EAR köpeklerin ağlamalarını tespit eden bir yapay zeka yazılımıdır.
 
 Amacımız, bu yazılımı barınaklara, sokak kulübelerine ve evlere kurarak, köpeklerin acı çektiği anlarda yardımı hızlı ulaştırmaktır.
